@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SKGGAMING01
-- 👀 I’m interested in Development and Codeing :>
+- 👀 I’m interested in Development and Coding :>
 - 🌱 I’m currently trying learn ".lua"
 - 📫 How to reach me Discord: https://discord.gg/feCX6gQ2pf
 
